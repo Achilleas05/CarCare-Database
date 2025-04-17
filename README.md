@@ -40,3 +40,5 @@ Follow PostgreSQL best practices
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+*Note: This was a group project completed at the University of Portsmouth. All contributors retain their respective rights.*
